@@ -1,4 +1,4 @@
-import 'package:first_app2/quiz.dart';
+import 'package:first_app2/questions/quiz.dart';
 import 'package:flutter/material.dart';
 
 void main() {
